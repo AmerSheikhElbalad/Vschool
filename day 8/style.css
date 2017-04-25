@@ -1,0 +1,35 @@
+*{ 
+box-sizing: border-box
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
+p{
+    text-align: center;
+    color: aqua;
+}
+nav{
+    background: black;
+    padding: 25px;
+    width: 100%;
+    display: block;
+    text-align: center;
+   box-sizing: border-box;
+    font-size: 30px;
+    
+}
+nav a{
+    color: white;
+    padding-left: 90px;
+}
+saction h1{
+    color: aqua;
+    text-align: left;
+    width: 70%;
+    float: left;
+    height: 60vh;
+    padding: 10px;
+    background: gray;  
+}
+
